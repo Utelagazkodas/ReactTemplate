@@ -12,7 +12,7 @@
     "**/package.json": true,
     "**/*.js.map": true,
     "**/vite-env.d.ts": true,
-    "README.md": true,
+    "README.md": false,
     "postcss.config.js": true,
     "tsconfig.json": true,
     "tsconfig.node.json": true,
